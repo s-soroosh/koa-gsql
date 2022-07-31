@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-graphql": "^0.12.0"
   }
 }
